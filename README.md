@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mohammad%20Daliriazar&fontSize=90&fontAlign=50&fontAlignY=35&desc=AI%20Student%20%7C%20Data%20Scientist%20%7C%20Software%20Developer&descAlign=50&descAlignY=55&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Mohammad%20Daliriazar&fontSize=75&fontAlign=50&fontAlignY=45&desc=AI%20Student%20%7C%20Data%20Scientist%20%7C%20Software%20Developer&descAlign=50&descAlignY=65&animation=twinkling)
 
 </div>
 
